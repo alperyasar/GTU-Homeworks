@@ -11,3 +11,4 @@ I'm trying add all what I did.
 - [CSE 341](https://github.com/alperyasar/GTU-Homeworks/tree/main/Programming-Language) - Programming Languages
 - [CSE 454](https://github.com/alperyasar/GTU-Homeworks/tree/main/data-mining) - Data Mining
 - [CSE 461](https://github.com/alperyasar/GTU-Homeworks/tree/main/CSE_461_assignment1) - Computer Graphics
+- [CSE 414](https://github.com/alperyasar/GTU-Homeworks/tree/main/CSE_461_assignment1) - Database
