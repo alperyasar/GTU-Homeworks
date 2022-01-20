@@ -1,6 +1,6 @@
 # GTU-Homeworks
-:wave: Hello everyone. I'm Alper Yaşar. \n
-:computer: These are my homeworks. \n
+:wave: Hello everyone. I'm Alper Yaşar. <br />
+:computer: These are my homeworks. <br />
 I'm trying add all what I did.
 
 ## Studies
