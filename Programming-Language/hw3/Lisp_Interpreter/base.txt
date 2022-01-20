@@ -1,0 +1,6 @@
+(deffun a (x y )
+    (if (less x y)
+        (+ x y)
+        (/ x y)
+    )
+)

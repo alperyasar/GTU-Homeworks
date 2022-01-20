@@ -1,0 +1,1 @@
+(defun tempFunc () ( defun a ( x y  ) ( if ( < x y  ) ( + x y  ) ( / x y  )  )  ) ( write-line "")(write "SYNTAX_ERROR Expression not recognized.")(quit) (write (tempFunc ) ) 

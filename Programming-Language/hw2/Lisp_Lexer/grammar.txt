@@ -1,0 +1,10 @@
+;; heloworld.g++
+
+(deffun sumup(x)
+
+    (if (equal x 0)
+        12
+        (+ x (sumup (- x -1)))
+        (list 1 2)
+    )
+)
