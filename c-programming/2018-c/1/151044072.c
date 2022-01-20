@@ -1,0 +1,145 @@
+#include <stdio.h>
+#include <math.h>
+
+#define PI 3.14
+
+double circle_area(double radius);
+double calc_hypotenuse(int side1, int side2);
+double calc_radius_of_smallest_circle(int side1,int side2);
+double calc_radius_of_largest_circle(int side1,int side2);
+double calc_area_of_smallest_circle(int side1,int side2);
+double calc_area_of_largest_circle(int side1,int side2);
+double calc_area_of_smallest_square(int side1,int side2);
+double calc_area_of_largest_square(int side1,int side2);
+double calc_area_of_square (int side);
+void display_results(double largest_circle, double largest_square,
+					 double smallest_circle, double smallest_square);
+					 
+int main(){
+
+	double largest_circle, largest_square, smallest_circle, smallest_square;
+	
+	/*ekrana yazma fonksiyonunu çağır*/
+	display_results(largest_circle, largest_square,
+					smallest_circle, smallest_square);
+	
+	return 0;
+}
+
+double calc_hypotenuse(int side1, int side2){			/*çember dışındaki en küçük alan için
+														  çapı hesaplar    						*/
+	double hypo;
+	
+	hypo = pow((double)(side1),2.0)+pow((double)(side2),2.0);
+	hypo = sqrt(hypo);
+	
+	return hypo;
+
+}
+/*dikdörtgeni çevreleyen en küçük çember hesabı*/
+double calc_radius_of_smallest_circle(int side1,int side2){		
+	double radius;
+
+	radius = calc_hypotenuse(side1,side2) / 2.0;	
+	return radius;
+
+}
+
+double calc_area_of_smallest_circle(int side1,int side2){
+	double area,radius;
+	
+	radius = calc_radius_of_smallest_circle(side1,side2); /*üst taraftaki fonksiyonda yarıçapı 
+															hesaplayıp circle_area içinde alanı hesaplar*/
+	area = circle_area(radius);
+
+	return area;
+}
+/*Dikdörtgen içindeki en büyük çember*/
+double calc_radius_of_largest_circle(int side1,int side2){
+	double radius;
+	
+							/*kenarları karşılaştırıp yarıçapı küçük kenarın yarısına eşitle*/
+	if(side1 < side2){
+		radius = ((double)(side1))/2.0;
+	}
+	else				/* iki kenar eşit olma durumunuda kapsar */
+		radius = ((double)(side2))/2.0;
+
+	return radius;
+}
+
+double calc_area_of_largest_circle(int side1,int side2){
+	double radius,area;
+		
+	radius = calc_radius_of_largest_circle(side1,side2);	/*yarıçapı üst fonksiyonda hesaplayıp
+															  alanı circle_area'da hesaplar*/	
+	area = circle_area(radius);	
+
+	return area;
+
+}
+
+double circle_area(double radius){		/*alan hesaplaması*/
+	double area;
+										
+	area = pow(radius,2.0) * PI;
+	
+	return area;	
+	
+}
+/*küçük olan kenarı belirleyip calc_area_of_largest_square fonksiyonunda alanı hesapla*/
+double calc_area_of_smallest_square(int side1,int side2){
+	double area;
+	
+	if(side1 > side2)
+		area = calc_area_of_square(side1);
+	
+	else
+		area = calc_area_of_square(side2);
+		
+	return area;
+}
+/*büyük olan kenarı belirleyip calc_area_of_samllest_square fonksiyonunda alanı hesapla*/
+double calc_area_of_largest_square(int side1,int side2){
+	double area;
+	
+	if(side1 < side2)
+		area = calc_area_of_square(side1);
+	
+	else
+		area = calc_area_of_square(side2);
+		
+	return area;
+
+}
+/*kare formülünü diğer iki fonksiyon içinde çağırıp alttaki fonksiyonda hesaplatma*/
+double calc_area_of_square (int side){
+	double area;
+	
+	area = pow(side,2.0);
+	
+	return area;
+}
+/*cikan sonucları ekrana yazan fonksiyon*/
+void display_results(double largest_circle, double largest_square,
+					 double smallest_circle, double smallest_square){
+	
+	int side1,side2;
+	
+	printf("Enter first side for rectangle : ");
+	scanf("%d",&side1);
+	
+	printf("Enter second side for rectangle : ");
+	scanf("%d",&side2);
+	
+	largest_circle = calc_area_of_largest_circle(side1,side2);
+	smallest_circle = calc_area_of_smallest_circle(side1,side2);
+	largest_square = calc_area_of_largest_square(side1,side2);
+	smallest_square = calc_area_of_smallest_square(side1,side2);
+	
+	printf("The area of the largest circle that fit inside a rectangle :  \t %.2f\n",largest_circle);
+	printf("The area of the largest square that fit inside a rectangle :  \t %.2f\n",largest_square);							 
+	printf("The area of the smallest circle that surrounds the same rectangle :  %.2f\n",smallest_circle);
+	printf("The area of the smallest square that surrounds the same rectangle :  %.2f\n",smallest_square);
+					 
+}

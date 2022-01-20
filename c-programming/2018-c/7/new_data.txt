@@ -1,0 +1,440 @@
+Monday,   Febuary   20,2016
+Tuesday,  Febuary   21,2016
+Wednesday,Febuary   22,2016
+Thursday, Febuary   23,2016
+Friday,   Febuary   24,2016
+Saturday, Febuary   25,2016
+Sunday,   Febuary   26,2016
+Monday,   Febuary   27,2016
+Tuesday,  Febuary   28,2016
+Wednesday,Febuary   29,2016
+Thursday, March     01,2016
+Friday,   March     02,2016
+Saturday, March     03,2016
+Sunday,   March     04,2016
+Monday,   March     05,2016
+Tuesday,  March     06,2016
+Wednesday,March     07,2016
+Thursday, March     08,2016
+Friday,   March     09,2016
+Saturday, March     10,2016
+Sunday,   March     11,2016
+Monday,   March     12,2016
+Tuesday,  March     13,2016
+Wednesday,March     14,2016
+Thursday, March     15,2016
+Friday,   March     16,2016
+Saturday, March     17,2016
+Sunday,   March     18,2016
+Monday,   March     19,2016
+Tuesday,  March     20,2016
+Wednesday,March     21,2016
+Thursday, March     22,2016
+Friday,   March     23,2016
+Saturday, March     24,2016
+Sunday,   March     25,2016
+Monday,   March     26,2016
+Tuesday,  March     27,2016
+Wednesday,March     28,2016
+Thursday, March     29,2016
+Friday,   March     30,2016
+Saturday, March     31,2016
+Sunday,   April     01,2016
+Monday,   April     02,2016
+Tuesday,  April     03,2016
+Wednesday,April     04,2016
+Thursday, April     05,2016
+Friday,   April     06,2016
+Saturday, April     07,2016
+Sunday,   April     08,2016
+Monday,   April     09,2016
+Tuesday,  April     10,2016
+Wednesday,April     11,2016
+Thursday, April     12,2016
+Friday,   April     13,2016
+Saturday, April     14,2016
+Sunday,   April     15,2016
+Monday,   April     16,2016
+Tuesday,  April     17,2016
+Wednesday,April     18,2016
+Thursday, April     19,2016
+Friday,   April     20,2016
+Saturday, April     21,2016
+Sunday,   April     22,2016
+Monday,   April     23,2016
+Tuesday,  April     24,2016
+Wednesday,April     25,2016
+Thursday, April     26,2016
+Friday,   April     27,2016
+Saturday, April     28,2016
+Sunday,   April     29,2016
+Monday,   April     30,2016
+Tuesday,  May       01,2016
+Wednesday,May       02,2016
+Thursday, May       03,2016
+Friday,   May       04,2016
+Saturday, May       05,2016
+Sunday,   May       06,2016
+Monday,   May       07,2016
+Tuesday,  May       08,2016
+Wednesday,May       09,2016
+Thursday, May       10,2016
+Friday,   May       11,2016
+Saturday, May       12,2016
+Sunday,   May       13,2016
+Monday,   May       14,2016
+Tuesday,  May       15,2016
+Wednesday,May       16,2016
+Thursday, May       17,2016
+Friday,   May       18,2016
+Saturday, May       19,2016
+Sunday,   May       20,2016
+Monday,   May       21,2016
+Tuesday,  May       22,2016
+Wednesday,May       23,2016
+Thursday, May       24,2016
+Friday,   May       25,2016
+Saturday, May       26,2016
+Sunday,   May       27,2016
+Monday,   May       28,2016
+Tuesday,  May       29,2016
+Wednesday,May       30,2016
+Thursday, May       31,2016
+Friday,   June	    01,2016
+Saturday, June	    02,2016
+Sunday,   June	    03,2016
+Monday,   June	    04,2016
+Tuesday,  June	    05,2016
+Wednesday,June	    06,2016
+Thursday, June	    07,2016
+Friday,   June	    08,2016
+Saturday, June	    09,2016
+Sunday,   June	    10,2016
+Monday,   June	    11,2016
+Tuesday,  June	    12,2016
+Wednesday,June	    13,2016
+Thursday, June	    14,2016
+Friday,   June	    15,2016
+Saturday, June	    16,2016
+Sunday,   June	    17,2016
+Monday,   June	    18,2016
+Tuesday,  June	    19,2016
+Wednesday,June	    20,2016
+Thursday, June	    21,2016
+Friday,   June	    22,2016
+Saturday, June	    23,2016
+Sunday,   June	    24,2016
+Monday,   June	    25,2016
+Tuesday,  June	    26,2016
+Wednesday,June	    27,2016
+Thursday, June	    28,2016
+Friday,   June	    29,2016
+Saturday, June	    30,2016
+Sunday,   July 	    01,2016
+Monday,   July 	    02,2016
+Tuesday,  July 	    03,2016
+Wednesday,July 	    04,2016
+Thursday, July 	    05,2016
+Friday,   July 	    06,2016
+Saturday, July 	    07,2016
+Sunday,   July 	    08,2016
+Monday,   July 	    09,2016
+Tuesday,  July 	    10,2016
+Wednesday,July 	    11,2016
+Thursday, July 	    12,2016
+Friday,   July 	    13,2016
+Saturday, July 	    14,2016
+Sunday,   July 	    15,2016
+Monday,   July 	    16,2016
+Tuesday,  July 	    17,2016
+Wednesday,July 	    18,2016
+Thursday, July 	    19,2016
+Friday,   July 	    20,2016
+Saturday, July 	    21,2016
+Sunday,   July 	    22,2016
+Monday,   July 	    23,2016
+Tuesday,  July 	    24,2016
+Wednesday,July 	    25,2016
+Thursday, July 	    26,2016
+Friday,   July 	    27,2016
+Saturday, July 	    28,2016
+Sunday,   July 	    29,2016
+Monday,   July 	    30,2016
+Tuesday,  July 	    31,2016
+Wednesday,August    01,2016
+Thursday, August    02,2016
+Friday,   August    03,2016
+Saturday, August    04,2016
+Sunday,   August    05,2016
+Monday,   August    06,2016
+Tuesday,  August    07,2016
+Wednesday,August    08,2016
+Thursday, August    09,2016
+Friday,   August    10,2016
+Saturday, August    11,2016
+Sunday,   August    12,2016
+Monday,   August    13,2016
+Tuesday,  August    14,2016
+Wednesday,August    15,2016
+Thursday, August    16,2016
+Friday,   August    17,2016
+Saturday, August    18,2016
+Sunday,   August    19,2016
+Monday,   August    20,2016
+Tuesday,  August    21,2016
+Wednesday,August    22,2016
+Thursday, August    23,2016
+Friday,   August    24,2016
+Saturday, August    25,2016
+Sunday,   August    26,2016
+Monday,   August    27,2016
+Tuesday,  August    28,2016
+Wednesday,August    29,2016
+Thursday, August    30,2016
+Friday,   August    31,2016
+Saturday, September 01,2016
+Sunday,   September 02,2016
+Monday,   September 03,2016
+Tuesday,  September 04,2016
+Wednesday,September 05,2016
+Thursday, September 06,2016
+Friday,   September 07,2016
+Saturday, September 08,2016
+Sunday,   September 09,2016
+Monday,   September 10,2016
+Tuesday,  September 11,2016
+Wednesday,September 12,2016
+Thursday, September 13,2016
+Friday,   September 14,2016
+Saturday, September 15,2016
+Sunday,   September 16,2016
+Monday,   September 17,2016
+Tuesday,  September 18,2016
+Wednesday,September 19,2016
+Thursday, September 20,2016
+Friday,   September 21,2016
+Saturday, September 22,2016
+Sunday,   September 23,2016
+Monday,   September 24,2016
+Tuesday,  September 25,2016
+Wednesday,September 26,2016
+Thursday, September 27,2016
+Friday,   September 28,2016
+Saturday, September 29,2016
+Sunday,   September 30,2016
+Monday,   October   01,2016
+Tuesday,  October   02,2016
+Wednesday,October   03,2016
+Thursday, October   04,2016
+Friday,   October   05,2016
+Saturday, October   06,2016
+Sunday,   October   07,2016
+Monday,   October   08,2016
+Tuesday,  October   09,2016
+Wednesday,October   10,2016
+Thursday, October   11,2016
+Friday,   October   12,2016
+Saturday, October   13,2016
+Sunday,   October   14,2016
+Monday,   October   15,2016
+Tuesday,  October   16,2016
+Wednesday,October   17,2016
+Thursday, October   18,2016
+Friday,   October   19,2016
+Saturday, October   20,2016
+Sunday,   October   21,2016
+Monday,   October   22,2016
+Tuesday,  October   23,2016
+Wednesday,October   24,2016
+Thursday, October   25,2016
+Friday,   October   26,2016
+Saturday, October   27,2016
+Sunday,   October   28,2016
+Monday,   October   29,2016
+Tuesday,  October   30,2016
+Wednesday,October   31,2016
+Thursday, November  01,2016
+Friday,   November  02,2016
+Saturday, November  03,2016
+Sunday,   November  04,2016
+Monday,   November  05,2016
+Tuesday,  November  06,2016
+Wednesday,November  07,2016
+Thursday, November  08,2016
+Friday,   November  09,2016
+Saturday, November  10,2016
+Sunday,   November  11,2016
+Monday,   November  12,2016
+Tuesday,  November  13,2016
+Wednesday,November  14,2016
+Thursday, November  15,2016
+Friday,   November  16,2016
+Saturday, November  17,2016
+Sunday,   November  18,2016
+Monday,   November  19,2016
+Tuesday,  November  20,2016
+Wednesday,November  21,2016
+Thursday, November  22,2016
+Friday,   November  23,2016
+Saturday, November  24,2016
+Sunday,   November  25,2016
+Monday,   November  26,2016
+Tuesday,  November  27,2016
+Wednesday,November  28,2016
+Thursday, November  29,2016
+Friday,   November  30,2016
+Saturday, December  01,2016
+Sunday,   December  02,2016
+Monday,   December  03,2016
+Tuesday,  December  04,2016
+Wednesday,December  05,2016
+Thursday, December  06,2016
+Friday,   December  07,2016
+Saturday, December  08,2016
+Sunday,   December  09,2016
+Monday,   December  10,2016
+Tuesday,  December  11,2016
+Wednesday,December  12,2016
+Thursday, December  13,2016
+Friday,   December  14,2016
+Saturday, December  15,2016
+Sunday,   December  16,2016
+Monday,   December  17,2016
+Tuesday,  December  18,2016
+Wednesday,December  19,2016
+Thursday, December  20,2016
+Friday,   December  21,2016
+Saturday, December  22,2016
+Sunday,   December  23,2016
+Monday,   December  24,2016
+Tuesday,  December  25,2016
+Wednesday,December  26,2016
+Thursday, December  27,2016
+Friday,   December  28,2016
+Saturday, December  29,2016
+Sunday,   December  30,2016
+Monday,   December  31,2016
+Tuesday,  January   01,2017
+Wednesday,January   02,2017
+Thursday, January   03,2017
+Friday,   January   04,2017
+Saturday, January   05,2017
+Sunday,   January   06,2017
+Monday,   January   07,2017
+Tuesday,  January   08,2017
+Wednesday,January   09,2017
+Thursday, January   10,2017
+Friday,   January   11,2017
+Saturday, January   12,2017
+Sunday,   January   13,2017
+Monday,   January   14,2017
+Tuesday,  January   15,2017
+Wednesday,January   16,2017
+Thursday, January   17,2017
+Friday,   January   18,2017
+Saturday, January   19,2017
+Sunday,   January   20,2017
+Monday,   January   21,2017
+Tuesday,  January   22,2017
+Wednesday,January   23,2017
+Thursday, January   24,2017
+Friday,   January   25,2017
+Saturday, January   26,2017
+Sunday,   January   27,2017
+Monday,   January   28,2017
+Tuesday,  January   29,2017
+Wednesday,January   30,2017
+Thursday, January   31,2017
+Friday,   Febuary   01,2017
+Saturday, Febuary   02,2017
+Sunday,   Febuary   03,2017
+Monday,   Febuary   04,2017
+Tuesday,  Febuary   05,2017
+Wednesday,Febuary   06,2017
+Thursday, Febuary   07,2017
+Friday,   Febuary   08,2017
+Saturday, Febuary   09,2017
+Sunday,   Febuary   10,2017
+Monday,   Febuary   11,2017
+Tuesday,  Febuary   12,2017
+Wednesday,Febuary   13,2017
+Thursday, Febuary   14,2017
+Friday,   Febuary   15,2017
+Saturday, Febuary   16,2017
+Sunday,   Febuary   17,2017
+Monday,   Febuary   18,2017
+Tuesday,  Febuary   19,2017
+Wednesday,Febuary   20,2017
+Thursday, Febuary   21,2017
+Friday,   Febuary   22,2017
+Saturday, Febuary   23,2017
+Sunday,   Febuary   24,2017
+Monday,   Febuary   25,2017
+Tuesday,  Febuary   26,2017
+Wednesday,Febuary   27,2017
+Thursday, Febuary   28,2017
+Friday,   March     01,2017
+Saturday, March     02,2017
+Sunday,   March     03,2017
+Monday,   March     04,2017
+Tuesday,  March     05,2017
+Wednesday,March     06,2017
+Thursday, March     07,2017
+Friday,   March     08,2017
+Saturday, March     09,2017
+Sunday,   March     10,2017
+Monday,   March     11,2017
+Tuesday,  March     12,2017
+Wednesday,March     13,2017
+Thursday, March     14,2017
+Friday,   March     15,2017
+Saturday, March     16,2017
+Sunday,   March     17,2017
+Monday,   March     18,2017
+Tuesday,  March     19,2017
+Wednesday,March     20,2017
+Thursday, March     21,2017
+Friday,   March     22,2017
+Saturday, March     23,2017
+Sunday,   March     24,2017
+Monday,   March     25,2017
+Tuesday,  March     26,2017
+Wednesday,March     27,2017
+Thursday, March     28,2017
+Friday,   March     29,2017
+Saturday, March     30,2017
+Sunday,   March     31,2017
+Monday,   April     01,2017
+Tuesday,  April     02,2017
+Wednesday,April     03,2017
+Thursday, April     04,2017
+Friday,   April     05,2017
+Saturday, April     06,2017
+Sunday,   April     07,2017
+Monday,   April     08,2017
+Tuesday,  April     09,2017
+Wednesday,April     10,2017
+Thursday, April     11,2017
+Friday,   April     12,2017
+Saturday, April     13,2017
+Sunday,   April     14,2017
+Monday,   April     15,2017
+Tuesday,  April     16,2017
+Wednesday,April     17,2017
+Thursday, April     18,2017
+Friday,   April     19,2017
+Saturday, April     20,2017
+Sunday,   April     21,2017
+Monday,   April     22,2017
+Tuesday,  April     23,2017
+Wednesday,April     24,2017
+Thursday, April     25,2017
+Friday,   April     26,2017
+Saturday, April     27,2017
+Sunday,   April     28,2017
+Monday,   April     29,2017
+Tuesday,  April     30,2017
+Wednesday,May       01,2017
+Thursday, May       02,2017
+Friday,   May       03,2017
+Saturday, May       04,201
