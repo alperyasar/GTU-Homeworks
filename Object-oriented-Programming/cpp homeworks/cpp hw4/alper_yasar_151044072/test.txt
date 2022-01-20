@@ -1,0 +1,11 @@
+-enter 3 207 18
+-enter 7 Z06 18
+-enter 4 Z06 18
+-enter 5 Z06 18
+-enter 9 Z06 18
+-enter 14 Z06 18
+-enter 15 Z06 18
+-enter 19 Z06 18
+-quit 9
+-attendance
+exit
