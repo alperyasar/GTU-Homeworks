@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"Q3","l":"AgeData"},{"p":"Q3","l":"AgeSearchTree"},{"l":"All Classes","url":"allclasses-index.html"},{"p":"Q3","l":"BinarySearchTree"},{"p":"Q3","l":"TestAgeSearchTree"}]

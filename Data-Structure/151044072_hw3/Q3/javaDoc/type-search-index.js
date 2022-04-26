@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"Part3","l":"CrossWordPuzzle"},{"p":"Part3","l":"MAIN"},{"p":"Part3","l":"Node"},{"p":"Part3","l":"WordLinkedList"}]
